@@ -1,0 +1,6 @@
+{
+  "extends": "@futhedev/ts-config/base.json",
+  "include": [
+    "src"
+  ]
+}

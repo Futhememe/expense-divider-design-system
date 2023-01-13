@@ -1,0 +1,3 @@
+{
+  "extends": "@mefu-ui/eslint-config"
+}
