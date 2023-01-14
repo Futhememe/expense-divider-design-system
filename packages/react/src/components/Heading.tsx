@@ -3,10 +3,10 @@ import { ElementType } from 'react'
 import { styled } from '../styles'
 
 export const Heading = styled('h2', {
-  fontFamily: '$default',
+  fontFamily: '$heading',
   lineHeight: '$shorter',
   margin: 0,
-  color: '$gray100',
+  color: '$purple900',
 
   variants: {
     size: {
