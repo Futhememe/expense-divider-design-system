@@ -1,5 +1,11 @@
 # @futhedev/eslint-config
 
+## 2.0.0
+
+### Major Changes
+
+- New version
+
 ## 1.1.0
 
 ### Minor Changes
